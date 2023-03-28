@@ -1,5 +1,9 @@
 # Frontend Mentor - Tip calculator app
 
+## Video
+
+Projenin videosuna erişmek için linke tıklayınız -> [Video Linki](https://drive.google.com/file/d/1QqYUb9k6vG6ZAA1npyK1Z69vUYadD-ky/view?usp=sharing)
+
 ## The challenge
 
 Your challenge is to build out this tip calculator app and get it looking as close to the design as possible.
